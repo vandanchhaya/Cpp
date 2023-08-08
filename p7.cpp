@@ -1,4 +1,6 @@
 //Write C++ program to find simple interest
+//Vandan Chhaya
+//220130318051
 #include <iostream>
 using namespace std;
 int main() 
