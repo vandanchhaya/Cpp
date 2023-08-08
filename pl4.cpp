@@ -1,4 +1,6 @@
 //Write a C program to enter radius of a circle and find its diameter,circumference and area
+//Vandan Chhaya
+//220130318051
 #include<iostream>
 using namespace std;
 int main()
