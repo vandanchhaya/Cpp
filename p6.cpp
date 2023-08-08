@@ -1,4 +1,6 @@
 //Write C++ program to find the size of int, char, float and double data types
+//Vandan Chhaya
+//220130318051
 #include <iostream>
 using namespace std;
 int main() 
