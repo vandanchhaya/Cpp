@@ -1,4 +1,6 @@
 //Write C++ Program to Check Armstrong Number using function
+//Vandan Chhaya
+//220130318051
 #include <iostream>
 #include <cmath>
 using namespace std;
