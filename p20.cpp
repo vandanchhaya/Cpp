@@ -1,4 +1,6 @@
 //Write C++ program to find factorial of the given number with the use of function
+//Vandan Chhaya
+//220130318051
 #include <iostream>
 using namespace std;
 int factorial(int n) 
